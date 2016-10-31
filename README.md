@@ -11,11 +11,8 @@ Docker上でのLAMP(Linux,Apache,MySQL,PHP)のテンプレート
     - バージョン変更
     - ポート変更
     - mysqlのユーザー名、パスワード変更
-- Q＆A
     
 ##実行方法
     NASA
 ##設定変更
-    NASA
-##Q＆A
     NASA
