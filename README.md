@@ -2,7 +2,8 @@ Docker LAMP Template
 ==
 Docker上でのLAMP(Linux,Apache,MySQL,PHP)のテンプレート
 
-***セキュリティについて現時点では保障できません***
+***セキュリティについて現時点では保障できません***  
+***あくまでLAMPの開発練習用です．必要最低限のものしか入っていません***
 
 - mysql:5.7.16
 - php:7.0.12-apache
